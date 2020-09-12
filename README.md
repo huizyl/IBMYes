@@ -49,7 +49,7 @@ addEventListener(
   `V2_ID`:　　　　　　vmess id, 默认值`d007eab8-ac2a-4a7f-287a-f0d50ef08680`.  
   `V2_PATH`:　　　　　ws path, 默认值`path`.  
   `ALTER_ID`:　　　　alterId, 默认值`1`.  
-* 修改项目`README.md`(打开文件, 右上角有个 `Edit this file`的图标), 随便加个空格, 点 `Commit changes`.
+* 修改项目`README.md`(打开文件, 右上角有个 `Edit this file`的图标), 随便加个 空格, 点 `Commit changes`.
 * 点击项目 Actions, 可以看到有个`IBM Cloud Deploy` 正在工作了, 每周会自动部署一次(IBM 10天不用会停).
 
 ### 客户端设置
