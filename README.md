@@ -81,7 +81,7 @@ addEventListener(
     底层传输安全: tls
 ```
 
-`server` `address` 可以使用 `cloudflare.com`或者别的`CF`的比较快的IP,对应的加一个伪装设置就行.
+`server` `address` 可以使 用 `cloudflare.com`或者别的`CF`的比较快的IP,对应的加一个伪装设置就行.
 ```
     clash:
     server: cloudflare.com
